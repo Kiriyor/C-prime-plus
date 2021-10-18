@@ -1,2 +1,7 @@
 # C-prime-plus
-This is a very easy project.
+本页面可能随时会修改.
+
+
+本文档旨在记录作者在自学c时所敲代码
+欢迎您的点击
+:)
